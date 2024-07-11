@@ -9,3 +9,5 @@ Matplotlib
 Seaborn
 Scikit-learn
 Keras
+## Results
+The RNN and LSTM models developed in this project provide accurate energy consumption forecasts. The models demonstrate strong predictive capabilities, as evidenced by low error metrics and visually close alignment between predicted and actual values.
