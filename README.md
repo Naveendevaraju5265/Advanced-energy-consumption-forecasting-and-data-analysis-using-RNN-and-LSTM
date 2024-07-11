@@ -4,10 +4,10 @@ This project aims to predict future energy consumption using historical data and
 ## Technologies Used
 Python<br>
 Pandas<br>
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
+NumPy<br>
+Matplotlib<br>
+Seaborn<br>
+Scikit-learn<br>
 Keras
 ## Results
 The RNN and LSTM models developed in this project provide accurate energy consumption forecasts. The models demonstrate strong predictive capabilities, as evidenced by low error metrics and visually close alignment between predicted and actual values.
